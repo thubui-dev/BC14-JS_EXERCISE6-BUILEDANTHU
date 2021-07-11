@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.html, body{ 
+    font-size: 18px;
+}
+
+/* EXERCISE 1  */
+
+#inputNumber {
+    width: 360px;
+    height: 50px;
+    background-color: yellowgreen;
+}
+
+/* EXERCISE 2  */
+
+.ex2-number1 {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+
+#result {
+    background-color: wheat;
+    border: 1px solid transparent;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.exercise2-section button {
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: tomato;
+    border: 1px solid transparent;
+    width: 100px;
+    height: 50px;
+
+}
+
+/* EXERCISE 3  */
+
+#resultPower {
+    background-color:rgb(180, 212, 115);
+    border: 1px solid transparent;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.exercise3-section button {
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: rgb(209, 238, 150);
+    border: 1px solid transparent;
+    width: 135px;
+    height: 50px;
+
+}
+
+/* EXERCISE 4  */
+
+.blue {
+    background-color: blue;
+    width: 305px;
+    height: 45px;
+    color: cornsilk;
+}
+
+.red {
+    background-color: red;
+    color: cornsilk;
+    width: 305px;
+    height: 45px;
+}
+
+.exercise4-section button {
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: rgb(92, 224, 92);
+    border: 1px solid transparent;
+    width: 100px;
+    height: 50px;
+
+}
